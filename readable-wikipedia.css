@@ -1,0 +1,12 @@
+@-moz-document domain("wikipedia.org") {
+  .firstHeading,
+  .mw-body-content {
+      max-width: 800px;
+  }
+
+  .mw-body-content {
+      font-family: Georgia;
+      font-size: 13pt !important;
+      line-height: 1.7;
+  }
+}

@@ -1,0 +1,14 @@
+@-moz-document domain("reddit.com") {
+  .usertext-body p,
+  .usertext-body ul li,
+  .usertext-body ol li {
+    font-family: Georgia !important;
+    font-size: 13pt !important;
+    line-height: 1.7 !important;
+    text-shadow: none !important;
+  }
+
+  .md {
+    max-width: 800px;
+  }
+}
